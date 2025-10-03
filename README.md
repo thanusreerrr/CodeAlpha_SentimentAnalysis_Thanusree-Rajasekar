@@ -32,7 +32,3 @@ This project performs **Sentiment Analysis** on Amazon product reviews using **P
 - Common positive words: *good, product, love, excellent*.
 
 
-git clone https://github.com/your-username/CodeAlpha_SentimentAnalysis.git
-cd CodeAlpha_SentimentAnalysis
-pip install -r requirements.txt
-jupyter notebook
